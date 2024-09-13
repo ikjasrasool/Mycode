@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/ikjasrasool/Mycode/tree/master/2083-three-divisors) |
+| [2752-sum-multiples](https://github.com/ikjasrasool/Mycode/tree/master/2752-sum-multiples) |
 ## Enumeration
 |  |
 | ------- |
