@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ikjasrasool/Mycode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1839-decode-xored-array](https://github.com/ikjasrasool/Mycode/tree/master/1839-decode-xored-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ikjasrasool/Mycode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Bit Manipulation
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
