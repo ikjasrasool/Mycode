@@ -100,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/ikjasrasool/Mycode/tree/master/1018-largest-perimeter-triangle) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ikjasrasool/Mycode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ikjasrasool/Mycode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ikjasrasool/Mycode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
