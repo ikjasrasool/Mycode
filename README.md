@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ikjasrasool/Mycode/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/ikjasrasool/Mycode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/ikjasrasool/Mycode/tree/master/0507-perfect-number) |
+| [0944-smallest-range-i](https://github.com/ikjasrasool/Mycode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ikjasrasool/Mycode/tree/master/1018-largest-perimeter-triangle) |
 | [1585-the-kth-factor-of-n](https://github.com/ikjasrasool/Mycode/tree/master/1585-the-kth-factor-of-n) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ikjasrasool/Mycode/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ikjasrasool/Mycode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0944-smallest-range-i](https://github.com/ikjasrasool/Mycode/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/ikjasrasool/Mycode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/ikjasrasool/Mycode/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
