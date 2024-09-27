@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/ikjasrasool/Mycode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/ikjasrasool/Mycode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ikjasrasool/Mycode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2491-smallest-even-multiple](https://github.com/ikjasrasool/Mycode/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/ikjasrasool/Mycode/tree/master/2752-sum-multiples) |
 ## Enumeration
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/ikjasrasool/Mycode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/ikjasrasool/Mycode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/ikjasrasool/Mycode/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
