@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/ikjasrasool/Mycode/tree/master/1018-largest-perimeter-triangle) |
 | [1585-the-kth-factor-of-n](https://github.com/ikjasrasool/Mycode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/ikjasrasool/Mycode/tree/master/2083-three-divisors) |
+| [2238-a-number-after-a-double-reversal](https://github.com/ikjasrasool/Mycode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2752-sum-multiples](https://github.com/ikjasrasool/Mycode/tree/master/2752-sum-multiples) |
 ## Enumeration
 |  |
