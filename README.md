@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/ikjasrasool/Mycode/tree/master/0944-smallest-range-i) |
 | [1018-largest-perimeter-triangle](https://github.com/ikjasrasool/Mycode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/ikjasrasool/Mycode/tree/master/1137-height-checker) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ikjasrasool/Mycode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1839-decode-xored-array](https://github.com/ikjasrasool/Mycode/tree/master/1839-decode-xored-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ikjasrasool/Mycode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ikjasrasool/Mycode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/ikjasrasool/Mycode/tree/master/0227-basic-calculator-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ikjasrasool/Mycode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ikjasrasool/Mycode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ikjasrasool/Mycode/tree/master/0225-implement-stack-using-queues) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ikjasrasool/Mycode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
