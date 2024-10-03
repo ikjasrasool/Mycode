@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ikjasrasool/Mycode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ikjasrasool/Mycode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ikjasrasool/Mycode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ikjasrasool/Mycode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ikjasrasool/Mycode/tree/master/0075-sort-colors) |
@@ -78,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ikjasrasool/Mycode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ikjasrasool/Mycode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ikjasrasool/Mycode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ikjasrasool/Mycode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ikjasrasool/Mycode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/0908-middle-of-the-linked-list) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ikjasrasool/Mycode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ikjasrasool/Mycode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ikjasrasool/Mycode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/ikjasrasool/Mycode/tree/master/0227-basic-calculator-ii) |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ikjasrasool/Mycode/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ikjasrasool/Mycode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
