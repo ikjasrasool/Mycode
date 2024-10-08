@@ -111,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ikjasrasool/Mycode/tree/master/0014-longest-common-prefix) |
 | [0227-basic-calculator-ii](https://github.com/ikjasrasool/Mycode/tree/master/0227-basic-calculator-ii) |
 | [0443-string-compression](https://github.com/ikjasrasool/Mycode/tree/master/0443-string-compression) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Recursion
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ikjasrasool/Mycode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/ikjasrasool/Mycode/tree/master/0739-daily-temperatures) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ikjasrasool/Mycode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
