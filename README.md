@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ikjasrasool/Mycode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ikjasrasool/Mycode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ikjasrasool/Mycode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ikjasrasool/Mycode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/ikjasrasool/Mycode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ikjasrasool/Mycode/tree/master/0100-same-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
