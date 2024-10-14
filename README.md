@@ -228,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ikjasrasool/Mycode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
