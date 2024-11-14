@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ikjasrasool/Mycode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/ikjasrasool/Mycode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ikjasrasool/Mycode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/ikjasrasool/Mycode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikjasrasool/Mycode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ikjasrasool/Mycode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/ikjasrasool/Mycode/tree/master/0058-length-of-last-word) |
 | [0227-basic-calculator-ii](https://github.com/ikjasrasool/Mycode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/ikjasrasool/Mycode/tree/master/0344-reverse-string) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ikjasrasool/Mycode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
 ## Database
 |  |
