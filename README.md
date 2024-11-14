@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ikjasrasool/Mycode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ikjasrasool/Mycode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ikjasrasool/Mycode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1013-fibonacci-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ikjasrasool/Mycode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/ikjasrasool/Mycode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikjasrasool/Mycode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ikjasrasool/Mycode/tree/master/0058-length-of-last-word) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ikjasrasool/Mycode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ikjasrasool/Mycode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ikjasrasool/Mycode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/0234-palindrome-linked-list) |
