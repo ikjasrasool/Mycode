@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [0218-the-skyline-problem](https://github.com/ikjasrasool/Mycode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/ikjasrasool/Mycode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ikjasrasool/Mycode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0283-move-zeroes) |
 | [0335-self-crossing](https://github.com/ikjasrasool/Mycode/tree/master/0335-self-crossing) |
@@ -349,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ikjasrasool/Mycode/tree/master/0214-shortest-palindrome) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ikjasrasool/Mycode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
