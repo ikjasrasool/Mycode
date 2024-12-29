@@ -1,10 +1,10 @@
 class Solution {
-    public int check(int [] piles,int hour)
+    public long check(int [] piles,int hour)
     {
-        int speed=0;
+        long speed=0;
         for(int x:piles)
         {
-            speed+=Math.ceil((double)x/hour);//(x/hour)+(x%hour==0)
+            speed+=(x+hour-1)/hour;
         }
         return speed;
     }
