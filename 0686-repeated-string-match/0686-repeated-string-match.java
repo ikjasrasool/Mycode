@@ -1,16 +1,9 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-        
-        String copy = "";
-        int count=0;
-        while(copy.length()<b.length()){
-            copy+=a;
-            count++;
-        }
-        if(copy.indexOf(b)>=0)
-            return count;
-        if((copy+a).indexOf(b)>=0)
-            return ++count;
+        StringBuilder sb = new StringBuilder();
+        for(int i = 1; i <= b.length() / a.length() + 2; i++) //starting 1 and ending with maximum 2 repeations is enough 
+            if(sb.append(a).toString().contains(b))
+                return i;
         return -1;
     }
 }
