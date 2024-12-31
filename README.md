@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ikjasrasool/Mycode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ikjasrasool/Mycode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ikjasrasool/Mycode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ikjasrasool/Mycode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ikjasrasool/Mycode/tree/master/0227-basic-calculator-ii) |
 | [0335-self-crossing](https://github.com/ikjasrasool/Mycode/tree/master/0335-self-crossing) |
 | [0367-valid-perfect-square](https://github.com/ikjasrasool/Mycode/tree/master/0367-valid-perfect-square) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ikjasrasool/Mycode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikjasrasool/Mycode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ikjasrasool/Mycode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ikjasrasool/Mycode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ikjasrasool/Mycode/tree/master/0295-find-median-from-data-stream) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ikjasrasool/Mycode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/ikjasrasool/Mycode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ikjasrasool/Mycode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ikjasrasool/Mycode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ikjasrasool/Mycode/tree/master/0389-find-the-difference) |
