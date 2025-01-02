@@ -1,32 +1,32 @@
 class Solution {
     public int compress(char[] chars) {
-        int n = chars.length;
-        StringBuilder sb = new StringBuilder();
-        
-        int freq = 1;
-        
-        for (int i = 0; i < n; i++) {
-            char c = chars[i];
-            
-            while (i < n - 1 && chars[i] == chars[i + 1]) {
-                freq++;
+        StringBuilder str = new StringBuilder();
+        int i = 0;
+
+        while (i < chars.length) {
+            char currentChar = chars[i];
+            int count = 0;
+
+            // Count occurrences of the current character
+            while (i < chars.length && chars[i] == currentChar) {
+                count++;
                 i++;
             }
-            
-            sb.append(c);
-            
-            if (freq > 1) {
-                sb.append(freq);
+
+            // Append the character
+            str.append(currentChar);
+
+            // Append the count if greater than 1
+            if (count > 1) {
+                str.append(count);
             }
-            
-            freq = 1;
         }
 
-        String compressedStr = sb.toString();
-        char[] compressedChars = compressedStr.toCharArray();
-        for (int i = 0; i < compressedChars.length; i++) {
-            chars[i] = compressedChars[i];
+        // Update the original array with the compressed result
+        for (int j = 0; j < str.length(); j++) {
+            chars[j] = str.charAt(j);
         }
-        return compressedChars.length;
+
+        return str.length();
     }
 }
