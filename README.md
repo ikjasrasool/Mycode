@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ikjasrasool/Mycode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ikjasrasool/Mycode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ikjasrasool/Mycode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ikjasrasool/Mycode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ikjasrasool/Mycode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikjasrasool/Mycode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ikjasrasool/Mycode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/ikjasrasool/Mycode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/ikjasrasool/Mycode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ikjasrasool/Mycode/tree/master/0389-find-the-difference) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ikjasrasool/Mycode/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 ## Geometry
 |  |
