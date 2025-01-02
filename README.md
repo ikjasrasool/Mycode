@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ikjasrasool/Mycode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ikjasrasool/Mycode/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/ikjasrasool/Mycode/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/ikjasrasool/Mycode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ikjasrasool/Mycode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ikjasrasool/Mycode/tree/master/0792-binary-search) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ikjasrasool/Mycode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/ikjasrasool/Mycode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ikjasrasool/Mycode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/ikjasrasool/Mycode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/ikjasrasool/Mycode/tree/master/1018-largest-perimeter-triangle) |
 ## Stack
 |  |
