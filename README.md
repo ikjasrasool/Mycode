@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ikjasrasool/Mycode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ikjasrasool/Mycode/tree/master/0941-sort-array-by-parity) |
+| [1894-merge-strings-alternately](https://github.com/ikjasrasool/Mycode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ikjasrasool/Mycode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0474-ones-and-zeroes) |
 | [0686-repeated-string-match](https://github.com/ikjasrasool/Mycode/tree/master/0686-repeated-string-match) |
+| [1894-merge-strings-alternately](https://github.com/ikjasrasool/Mycode/tree/master/1894-merge-strings-alternately) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ikjasrasool/Mycode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
