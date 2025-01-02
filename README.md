@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ikjasrasool/Mycode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/ikjasrasool/Mycode/tree/master/1137-height-checker) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ikjasrasool/Mycode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ikjasrasool/Mycode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ikjasrasool/Mycode/tree/master/1635-number-of-good-pairs) |
 | [1839-decode-xored-array](https://github.com/ikjasrasool/Mycode/tree/master/1839-decode-xored-array) |
