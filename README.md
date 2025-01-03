@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ikjasrasool/Mycode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ikjasrasool/Mycode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/ikjasrasool/Mycode/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/ikjasrasool/Mycode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ikjasrasool/Mycode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ikjasrasool/Mycode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ikjasrasool/Mycode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ikjasrasool/Mycode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikjasrasool/Mycode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/ikjasrasool/Mycode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ikjasrasool/Mycode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ikjasrasool/Mycode/tree/master/0367-valid-perfect-square) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ikjasrasool/Mycode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ikjasrasool/Mycode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ikjasrasool/Mycode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/ikjasrasool/Mycode/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikjasrasool/Mycode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ikjasrasool/Mycode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ikjasrasool/Mycode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ikjasrasool/Mycode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/ikjasrasool/Mycode/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikjasrasool/Mycode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
 |  |
