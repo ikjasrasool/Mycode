@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ikjasrasool/Mycode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikjasrasool/Mycode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ikjasrasool/Mycode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ikjasrasool/Mycode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
@@ -384,12 +385,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ikjasrasool/Mycode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ikjasrasool/Mycode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikjasrasool/Mycode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ikjasrasool/Mycode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikjasrasool/Mycode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
 ## Sliding Window
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
 ## Quickselect
@@ -509,5 +513,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ikjasrasool/Mycode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
