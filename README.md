@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ikjasrasool/Mycode/tree/master/1635-number-of-good-pairs) |
 | [1839-decode-xored-array](https://github.com/ikjasrasool/Mycode/tree/master/1839-decode-xored-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2358-number-of-ways-to-split-array](https://github.com/ikjasrasool/Mycode/tree/master/2358-number-of-ways-to-split-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ikjasrasool/Mycode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ikjasrasool/Mycode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ikjasrasool/Mycode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ikjasrasool/Mycode/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ikjasrasool/Mycode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/ikjasrasool/Mycode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ikjasrasool/Mycode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
