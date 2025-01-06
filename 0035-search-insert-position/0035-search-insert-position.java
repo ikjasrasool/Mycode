@@ -1,19 +1,23 @@
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        int i;
-        int pos=-1;
-        for(i=0;i<nums.length;i++)
+        int l=0;
+        int r=nums.length-1;
+        while(l<=r)
         {
-            if(nums[i]==target)
+            int mid=l+(r-l)/2;
+            if(nums[mid]==target)
             {
-                return i;
+                return mid;
             }
-            if(nums[i]>target)
+            if(nums[mid]<target)
             {
-                pos=i;
-                break;
+                l=mid+1;
+            }
+            else
+            {
+                r=mid-1;
             }
         }
-        return pos==-1?nums.length:pos;
+        return l;
     }
 }
