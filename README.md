@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ikjasrasool/Mycode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ikjasrasool/Mycode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/ikjasrasool/Mycode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ikjasrasool/Mycode/tree/master/0238-product-of-array-except-self) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ikjasrasool/Mycode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ikjasrasool/Mycode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ikjasrasool/Mycode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ikjasrasool/Mycode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/ikjasrasool/Mycode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/ikjasrasool/Mycode/tree/master/0389-find-the-difference) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ikjasrasool/Mycode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ikjasrasool/Mycode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ikjasrasool/Mycode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/ikjasrasool/Mycode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ikjasrasool/Mycode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ikjasrasool/Mycode/tree/master/0389-find-the-difference) |
