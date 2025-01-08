@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ikjasrasool/Mycode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ikjasrasool/Mycode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ikjasrasool/Mycode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ikjasrasool/Mycode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ikjasrasool/Mycode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ikjasrasool/Mycode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ikjasrasool/Mycode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/ikjasrasool/Mycode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/ikjasrasool/Mycode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/ikjasrasool/Mycode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/ikjasrasool/Mycode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/ikjasrasool/Mycode/tree/master/0227-basic-calculator-ii) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ikjasrasool/Mycode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ikjasrasool/Mycode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ikjasrasool/Mycode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ikjasrasool/Mycode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ikjasrasool/Mycode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ikjasrasool/Mycode/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 ## Geometry
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ikjasrasool/Mycode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
