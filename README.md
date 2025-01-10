@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ikjasrasool/Mycode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ikjasrasool/Mycode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ikjasrasool/Mycode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/ikjasrasool/Mycode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ikjasrasool/Mycode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ikjasrasool/Mycode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ikjasrasool/Mycode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/ikjasrasool/Mycode/tree/master/1018-largest-perimeter-triangle) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/ikjasrasool/Mycode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
