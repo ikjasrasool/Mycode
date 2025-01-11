@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0474-ones-and-zeroes) |
 | [0686-repeated-string-match](https://github.com/ikjasrasool/Mycode/tree/master/0686-repeated-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ikjasrasool/Mycode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ikjasrasool/Mycode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ikjasrasool/Mycode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/ikjasrasool/Mycode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ikjasrasool/Mycode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ikjasrasool/Mycode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ikjasrasool/Mycode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ikjasrasool/Mycode/tree/master/0739-daily-temperatures) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ikjasrasool/Mycode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ikjasrasool/Mycode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
