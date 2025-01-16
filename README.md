@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ikjasrasool/Mycode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ikjasrasool/Mycode/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ikjasrasool/Mycode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ikjasrasool/Mycode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ikjasrasool/Mycode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ikjasrasool/Mycode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ikjasrasool/Mycode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/ikjasrasool/Mycode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/ikjasrasool/Mycode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/ikjasrasool/Mycode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ikjasrasool/Mycode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ikjasrasool/Mycode/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ikjasrasool/Mycode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ikjasrasool/Mycode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ikjasrasool/Mycode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/ikjasrasool/Mycode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ikjasrasool/Mycode/tree/master/0239-sliding-window-maximum) |
 ## Database
