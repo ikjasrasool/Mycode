@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ikjasrasool/Mycode/tree/master/1635-number-of-good-pairs) |
 | [1839-decode-xored-array](https://github.com/ikjasrasool/Mycode/tree/master/1839-decode-xored-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ikjasrasool/Mycode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2358-number-of-ways-to-split-array](https://github.com/ikjasrasool/Mycode/tree/master/2358-number-of-ways-to-split-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ikjasrasool/Mycode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ikjasrasool/Mycode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ikjasrasool/Mycode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/ikjasrasool/Mycode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ikjasrasool/Mycode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ikjasrasool/Mycode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ikjasrasool/Mycode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/ikjasrasool/Mycode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ikjasrasool/Mycode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/ikjasrasool/Mycode/tree/master/0068-text-justification) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ikjasrasool/Mycode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Recursion
