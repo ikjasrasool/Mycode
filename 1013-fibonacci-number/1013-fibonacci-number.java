@@ -1,5 +1,6 @@
 class Solution {
     int[] db=new int[31];
+    Solution()
     {
         Arrays.fill(db,-1);
     }
