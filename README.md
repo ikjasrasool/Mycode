@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ikjasrasool/Mycode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ikjasrasool/Mycode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/ikjasrasool/Mycode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ikjasrasool/Mycode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ikjasrasool/Mycode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ikjasrasool/Mycode/tree/master/0202-happy-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ikjasrasool/Mycode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ikjasrasool/Mycode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ikjasrasool/Mycode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ikjasrasool/Mycode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikjasrasool/Mycode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [0474-ones-and-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0474-ones-and-zeroes) |
@@ -566,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ikjasrasool/Mycode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ikjasrasool/Mycode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
