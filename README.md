@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikjasrasool/Mycode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [0474-ones-and-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/ikjasrasool/Mycode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ikjasrasool/Mycode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ikjasrasool/Mycode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/ikjasrasool/Mycode/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/ikjasrasool/Mycode/tree/master/0686-repeated-string-match) |
 | [0886-score-of-parentheses](https://github.com/ikjasrasool/Mycode/tree/master/0886-score-of-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ikjasrasool/Mycode/tree/master/1146-greatest-common-divisor-of-strings) |
