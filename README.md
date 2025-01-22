@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ikjasrasool/Mycode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/ikjasrasool/Mycode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/ikjasrasool/Mycode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ikjasrasool/Mycode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0074-search-a-2d-matrix) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ikjasrasool/Mycode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ikjasrasool/Mycode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ikjasrasool/Mycode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ikjasrasool/Mycode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikjasrasool/Mycode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [0474-ones-and-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0474-ones-and-zeroes) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/ikjasrasool/Mycode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ikjasrasool/Mycode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
