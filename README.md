@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ikjasrasool/Mycode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ikjasrasool/Mycode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/ikjasrasool/Mycode/tree/master/0335-self-crossing) |
+| [0376-wiggle-subsequence](https://github.com/ikjasrasool/Mycode/tree/master/0376-wiggle-subsequence) |
 | [0414-third-maximum-number](https://github.com/ikjasrasool/Mycode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ikjasrasool/Mycode/tree/master/0455-assign-cookies) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ikjasrasool/Mycode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikjasrasool/Mycode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
+| [0376-wiggle-subsequence](https://github.com/ikjasrasool/Mycode/tree/master/0376-wiggle-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/ikjasrasool/Mycode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1013-fibonacci-number) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ikjasrasool/Mycode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/ikjasrasool/Mycode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/ikjasrasool/Mycode/tree/master/0334-increasing-triplet-subsequence) |
+| [0376-wiggle-subsequence](https://github.com/ikjasrasool/Mycode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/ikjasrasool/Mycode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ikjasrasool/Mycode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/ikjasrasool/Mycode/tree/master/1018-largest-perimeter-triangle) |
