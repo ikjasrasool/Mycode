@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1236-n-th-tribonacci-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ikjasrasool/Mycode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1517-restore-the-array](https://github.com/ikjasrasool/Mycode/tree/master/1517-restore-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/ikjasrasool/Mycode/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ikjasrasool/Mycode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ikjasrasool/Mycode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1517-restore-the-array](https://github.com/ikjasrasool/Mycode/tree/master/1517-restore-the-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ikjasrasool/Mycode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/ikjasrasool/Mycode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ikjasrasool/Mycode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
