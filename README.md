@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ikjasrasool/Mycode/tree/master/1635-number-of-good-pairs) |
 | [1839-decode-xored-array](https://github.com/ikjasrasool/Mycode/tree/master/1839-decode-xored-array) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ikjasrasool/Mycode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ikjasrasool/Mycode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2358-number-of-ways-to-split-array](https://github.com/ikjasrasool/Mycode/tree/master/2358-number-of-ways-to-split-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1236-n-th-tribonacci-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ikjasrasool/Mycode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/ikjasrasool/Mycode/tree/master/1517-restore-the-array) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ikjasrasool/Mycode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Two Pointers
 |  |
 | ------- |
