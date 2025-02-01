@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikjasrasool/Mycode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ikjasrasool/Mycode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/ikjasrasool/Mycode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/ikjasrasool/Mycode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/ikjasrasool/Mycode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ikjasrasool/Mycode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ikjasrasool/Mycode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ikjasrasool/Mycode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikjasrasool/Mycode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ikjasrasool/Mycode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [0376-wiggle-subsequence](https://github.com/ikjasrasool/Mycode/tree/master/0376-wiggle-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0474-ones-and-zeroes) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ikjasrasool/Mycode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ikjasrasool/Mycode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ikjasrasool/Mycode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ikjasrasool/Mycode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/ikjasrasool/Mycode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ikjasrasool/Mycode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ikjasrasool/Mycode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ikjasrasool/Mycode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ikjasrasool/Mycode/tree/master/0093-restore-ip-addresses) |
+| [0139-word-break](https://github.com/ikjasrasool/Mycode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/ikjasrasool/Mycode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/ikjasrasool/Mycode/tree/master/0227-basic-calculator-ii) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ikjasrasool/Mycode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ikjasrasool/Mycode/tree/master/1236-n-th-tribonacci-number) |
@@ -430,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ikjasrasool/Mycode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ikjasrasool/Mycode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
 ## Monotonic Stack
 |  |
