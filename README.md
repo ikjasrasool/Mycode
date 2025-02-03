@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ikjasrasool/Mycode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikjasrasool/Mycode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ikjasrasool/Mycode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ikjasrasool/Mycode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikjasrasool/Mycode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ikjasrasool/Mycode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
@@ -595,9 +597,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ikjasrasool/Mycode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ikjasrasool/Mycode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ikjasrasool/Mycode/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ikjasrasool/Mycode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
