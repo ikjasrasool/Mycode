@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikjasrasool/Mycode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ikjasrasool/Mycode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
+| [0813-all-paths-from-source-to-target](https://github.com/ikjasrasool/Mycode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/ikjasrasool/Mycode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikjasrasool/Mycode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ikjasrasool/Mycode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
+| [0813-all-paths-from-source-to-target](https://github.com/ikjasrasool/Mycode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/ikjasrasool/Mycode/tree/master/0871-keys-and-rooms) |
 ## Sliding Window
 |  |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ikjasrasool/Mycode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/ikjasrasool/Mycode/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/ikjasrasool/Mycode/tree/master/0813-all-paths-from-source-to-target) |
 ## Geometry
 |  |
 | ------- |
@@ -609,5 +612,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ikjasrasool/Mycode/tree/master/0547-number-of-provinces) |
+| [0813-all-paths-from-source-to-target](https://github.com/ikjasrasool/Mycode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/ikjasrasool/Mycode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
