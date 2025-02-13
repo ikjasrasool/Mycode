@@ -1,43 +1,57 @@
-public class Solution {
+// Hard problem, just read it
+class Solution {
     public List<String> fullJustify(String[] words, int maxWidth) {
-        List<String> res = new ArrayList<>();
-        List<String> curWords = new ArrayList<>();
-        int curLen = 0;
+        List<String> result = new ArrayList<>();
+        int currentLength = 0;
+        int numWords = 0;
+        List<String> line = new ArrayList<>();
 
         for (String word : words) {
-            if (curLen + word.length() + curWords.size() > maxWidth) {
-                int totalSpaces = maxWidth - curLen;
-                int gaps = curWords.size() - 1;
-                if (gaps == 0) {
-                    res.add(curWords.get(0) + " ".repeat(totalSpaces));
-                } else {
-                    int spacePerGap = totalSpaces / gaps;
-                    int extraSpaces = totalSpaces % gaps;
-                    StringBuilder line = new StringBuilder();
-                    for (int i = 0; i < curWords.size(); i++) {
-                        line.append(curWords.get(i));
-                        if (i < gaps) {
-                            line.append(" ".repeat(spacePerGap));
-                            if (i < extraSpaces) {
-                                line.append(' ');
-                            }
-                        }
-                    }
-                    res.add(line.toString());
-                }
-                curWords.clear();
-                curLen = 0;
+            if (currentLength + word.length() + numWords <= maxWidth) {
+                line.add(word);
+                currentLength += word.length();
+                numWords++;
+            } else {
+                // Form a line
+                result.add(justifyLine(line, maxWidth, currentLength, numWords));
+                line = new ArrayList<>();
+                line.add(word);
+                currentLength = word.length();
+                numWords = 1;
             }
-            curWords.add(word);
-            curLen += word.length();
         }
 
-        StringBuilder lastLine = new StringBuilder(String.join(" ", curWords));
-        while (lastLine.length() < maxWidth) {
-            lastLine.append(' ');
-        }
-        res.add(lastLine.toString());
+        // Handle the last line
+        String lastLine = String.join(" ", line);
+        int padding = maxWidth - lastLine.length();
+        lastLine += " ".repeat(padding);
+        result.add(lastLine);
 
-        return res;
+        return result;
+    }
+
+    private String justifyLine(List<String> line, int maxWidth, int currentLength, int numWords) {
+        if (numWords == 1) {
+            // Single word on the line, left-justify
+            return String.format("%-" + maxWidth + "s", line.get(0));
+        }
+
+        int totalSpaces = maxWidth - currentLength;
+        int spacesBetweenWords = numWords - 1;
+        int extraSpaces = totalSpaces % spacesBetweenWords;
+        int spaces = totalSpaces / spacesBetweenWords;
+
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < line.size() - 1; i++) {
+            sb.append(line.get(i));
+            sb.append(" ".repeat(spaces));
+            if (extraSpaces > 0) {
+                sb.append(" ");
+                extraSpaces--;
+            }
+        }
+        sb.append(line.get(line.size() - 1));
+
+        return sb.toString();
     }
 }
