@@ -1,69 +1,74 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> results = new ArrayList<>();
-        if (n == 1) {
-            List<String> solution = new ArrayList<>();
-            solution.add("Q");
-            results.add(solution);
-            return results;
+        
+        char [][] board = new char[n][n];
+        for(int i = 0; i < board.length; i++) {
+            for(int j = 0; j < board.length; j++) {
+                board[i][j] = '.';
+            }
         }
-        if (n == 2 || n == 3) {
-            return results;
-        }
-
-        int[] solution = new int[n];
-        for (int i = 0; i < n; i++) {
-            solution[i] = -1;
-        }
-
-        solveNQueensRec(n, solution, 0, results);
-        return results;
+        
+        List<List<String>> ans = new ArrayList<>();
+        queen(board, 0, ans);
+        return ans;
     }
 
-    // Recursive worker function
-    private void solveNQueensRec(int n, int[] solution, int row, List<List<String>> results) {
-        if (row == n) {
-            List<String> solutionStr = constructSolutionString(solution);
-            results.add(solutionStr);
+    static void queen(char[][] board, int row, List<List<String>> list) {
+
+        if(row == board.length) {
+
+            list.add(construct(board));
             return;
         }
 
-        for (int i = 0; i < n; i++) {
-            if (isValidMove(row, i, solution)) {
-                solution[row] = i;
-                solveNQueensRec(n, solution, row + 1, results);
-                solution[row] = -1; // Backtrack
+        for (int col = 0; col < board.length; col++) {
+            if(isSafe(board, row, col)) {
+                board[row][col] = 'Q';
+                queen(board, row + 1, list);
+                board[row][col] = '.';
             }
         }
     }
 
-    // This method determines if a queen can be placed at
-    // proposedRow, proposedCol with the current solution
-    private boolean isValidMove(int proposedRow, int proposedCol, int[] solution) {
-        for (int i = 0; i < proposedRow; i++) {
-            int oldRow = i;
-            int oldCol = solution[i];
-            int diagonalOffset = proposedRow - oldRow;
+    static List<String> construct(char[][] board) {
 
-            if (oldCol == proposedCol || oldCol == proposedCol - diagonalOffset
-                    || oldCol == proposedCol + diagonalOffset) {
+        List<String> internal = new ArrayList<>();
+        for (int i = 0; i < board.length; i++) {
+            String row = new String(board[i]);
+            internal.add(row);
+        }
+        return internal;
+    }
+
+    static boolean isSafe(char[][] board, int row, int col) {
+
+        //for checking vertical row
+        for (int i = 0; i < row; i++) {
+            if(board[i][col] == 'Q') {
                 return false;
             }
         }
-        return true;
-    }
 
-    // Constructs the board solution as a list of strings
-    private List<String> constructSolutionString(int[] solution) {
-        List<String> returnArr = new ArrayList<>();
-        for (int i = 0; i < solution.length; i++) {
-            char[] row = new char[solution.length];
-            for (int j = 0; j < solution.length; j++) {
-                row[j] = '.';
+        //for checking left diagonal
+
+        int maxLeft = Math.min(row, col);
+
+        for (int i = 1; i <= maxLeft; i++) {
+            if(board[row - i][col - i] == 'Q') {
+                return false;
             }
-            row[solution[i]] = 'Q';
-            returnArr.add(new String(row));
         }
-        return returnArr;
+
+        //for checking right diagonal
+
+        int maxRight = Math.min(row, board.length - 1 - col);
+
+        for (int i = 1; i <= maxRight; i++) {
+            if(board[row - i][col + i] == 'Q') {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
