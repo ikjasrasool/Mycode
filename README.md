@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ikjasrasool/Mycode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ikjasrasool/Mycode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ikjasrasool/Mycode/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/ikjasrasool/Mycode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/ikjasrasool/Mycode/tree/master/0292-nim-game) |
 | [0335-self-crossing](https://github.com/ikjasrasool/Mycode/tree/master/0335-self-crossing) |
 | [0367-valid-perfect-square](https://github.com/ikjasrasool/Mycode/tree/master/0367-valid-perfect-square) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ikjasrasool/Mycode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/ikjasrasool/Mycode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/ikjasrasool/Mycode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/ikjasrasool/Mycode/tree/master/2491-smallest-even-multiple) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ikjasrasool/Mycode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/ikjasrasool/Mycode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/ikjasrasool/Mycode/tree/master/0258-add-digits) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ikjasrasool/Mycode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
