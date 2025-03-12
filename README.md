@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/ikjasrasool/Mycode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/ikjasrasool/Mycode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/ikjasrasool/Mycode/tree/master/2752-sum-multiples) |
+| [2812-find-the-maximum-achievable-number](https://github.com/ikjasrasool/Mycode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Enumeration
 |  |
