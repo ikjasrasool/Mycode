@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/ikjasrasool/Mycode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ikjasrasool/Mycode/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/ikjasrasool/Mycode/tree/master/2571-find-the-pivot-integer) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ikjasrasool/Mycode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/ikjasrasool/Mycode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/ikjasrasool/Mycode/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ikjasrasool/Mycode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ikjasrasool/Mycode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ikjasrasool/Mycode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ikjasrasool/Mycode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ikjasrasool/Mycode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/ikjasrasool/Mycode/tree/master/3194-find-words-containing-character) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ikjasrasool/Mycode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ikjasrasool/Mycode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ikjasrasool/Mycode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ikjasrasool/Mycode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/ikjasrasool/Mycode/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ikjasrasool/Mycode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ikjasrasool/Mycode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ikjasrasool/Mycode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Recursion
