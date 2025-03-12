@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/ikjasrasool/Mycode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ikjasrasool/Mycode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/ikjasrasool/Mycode/tree/master/2955-account-balance-after-rounded-purchase) |
 ## Enumeration
 |  |
 | ------- |
