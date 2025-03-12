@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ikjasrasool/Mycode/tree/master/1635-number-of-good-pairs) |
 | [1839-decode-xored-array](https://github.com/ikjasrasool/Mycode/tree/master/1839-decode-xored-array) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ikjasrasool/Mycode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ikjasrasool/Mycode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ikjasrasool/Mycode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2358-number-of-ways-to-split-array](https://github.com/ikjasrasool/Mycode/tree/master/2358-number-of-ways-to-split-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ikjasrasool/Mycode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ikjasrasool/Mycode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ikjasrasool/Mycode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ikjasrasool/Mycode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ikjasrasool/Mycode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ikjasrasool/Mycode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/ikjasrasool/Mycode/tree/master/0258-add-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/ikjasrasool/Mycode/tree/master/1806-count-of-matches-in-tournament) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ikjasrasool/Mycode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ikjasrasool/Mycode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ikjasrasool/Mycode/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ikjasrasool/Mycode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ikjasrasool/Mycode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ikjasrasool/Mycode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ikjasrasool/Mycode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ikjasrasool/Mycode/tree/master/2691-count-vowel-strings-in-ranges) |
