@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/ikjasrasool/Mycode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ikjasrasool/Mycode/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/ikjasrasool/Mycode/tree/master/2571-find-the-pivot-integer) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/ikjasrasool/Mycode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/ikjasrasool/Mycode/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Enumeration
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ikjasrasool/Mycode/tree/master/0605-can-place-flowers) |
 | [1018-largest-perimeter-triangle](https://github.com/ikjasrasool/Mycode/tree/master/1018-largest-perimeter-triangle) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/ikjasrasool/Mycode/tree/master/2687-lexicographically-smallest-beautiful-string) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/ikjasrasool/Mycode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Stack
 |  |
 | ------- |
