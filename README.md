@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/ikjasrasool/Mycode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/ikjasrasool/Mycode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ikjasrasool/Mycode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/ikjasrasool/Mycode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/ikjasrasool/Mycode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ikjasrasool/Mycode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ikjasrasool/Mycode/tree/master/2507-number-of-common-factors) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/ikjasrasool/Mycode/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ikjasrasool/Mycode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ikjasrasool/Mycode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/ikjasrasool/Mycode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/ikjasrasool/Mycode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ikjasrasool/Mycode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/ikjasrasool/Mycode/tree/master/2847-find-maximum-number-of-string-pairs) |
