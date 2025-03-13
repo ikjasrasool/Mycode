@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/ikjasrasool/Mycode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/ikjasrasool/Mycode/tree/master/2955-account-balance-after-rounded-purchase) |
+| [2998-count-symmetric-integers](https://github.com/ikjasrasool/Mycode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/ikjasrasool/Mycode/tree/master/2083-three-divisors) |
+| [2998-count-symmetric-integers](https://github.com/ikjasrasool/Mycode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
