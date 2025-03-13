@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/ikjasrasool/Mycode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ikjasrasool/Mycode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/ikjasrasool/Mycode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/ikjasrasool/Mycode/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/ikjasrasool/Mycode/tree/master/2571-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ikjasrasool/Mycode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2679-count-distinct-numbers-on-board](https://github.com/ikjasrasool/Mycode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/ikjasrasool/Mycode/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/ikjasrasool/Mycode/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/ikjasrasool/Mycode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/ikjasrasool/Mycode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/ikjasrasool/Mycode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/ikjasrasool/Mycode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/ikjasrasool/Mycode/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ikjasrasool/Mycode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
 |  |
