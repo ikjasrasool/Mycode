@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ikjasrasool/Mycode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/ikjasrasool/Mycode/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/ikjasrasool/Mycode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/ikjasrasool/Mycode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/ikjasrasool/Mycode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/ikjasrasool/Mycode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ikjasrasool/Mycode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/ikjasrasool/Mycode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/ikjasrasool/Mycode/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/ikjasrasool/Mycode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/ikjasrasool/Mycode/tree/master/1806-count-of-matches-in-tournament) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ikjasrasool/Mycode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ikjasrasool/Mycode/tree/master/2137-final-value-of-variable-after-performing-operations) |
