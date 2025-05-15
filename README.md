@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ikjasrasool/Mycode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ikjasrasool/Mycode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ikjasrasool/Mycode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikjasrasool/Mycode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ikjasrasool/Mycode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/ikjasrasool/Mycode/tree/master/0218-the-skyline-problem) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/ikjasrasool/Mycode/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/ikjasrasool/Mycode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/ikjasrasool/Mycode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/ikjasrasool/Mycode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/ikjasrasool/Mycode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ikjasrasool/Mycode/tree/master/0242-valid-anagram) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ikjasrasool/Mycode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ikjasrasool/Mycode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/ikjasrasool/Mycode/tree/master/0212-word-search-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ikjasrasool/Mycode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/ikjasrasool/Mycode/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/ikjasrasool/Mycode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/ikjasrasool/Mycode/tree/master/0212-word-search-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/ikjasrasool/Mycode/tree/master/0813-all-paths-from-source-to-target) |
 ## Geometry
 |  |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ikjasrasool/Mycode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ikjasrasool/Mycode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ikjasrasool/Mycode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ikjasrasool/Mycode/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/ikjasrasool/Mycode/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/ikjasrasool/Mycode/tree/master/1073-number-of-enclaves) |
