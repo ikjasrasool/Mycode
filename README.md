@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ikjasrasool/Mycode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ikjasrasool/Mycode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikjasrasool/Mycode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ikjasrasool/Mycode/tree/master/0327-count-of-range-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/ikjasrasool/Mycode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/ikjasrasool/Mycode/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/ikjasrasool/Mycode/tree/master/0349-intersection-of-two-arrays) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ikjasrasool/Mycode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikjasrasool/Mycode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ikjasrasool/Mycode/tree/master/0327-count-of-range-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ikjasrasool/Mycode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ikjasrasool/Mycode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikjasrasool/Mycode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ikjasrasool/Mycode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ikjasrasool/Mycode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ikjasrasool/Mycode/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ikjasrasool/Mycode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -646,11 +649,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ikjasrasool/Mycode/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikjasrasool/Mycode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ikjasrasool/Mycode/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ikjasrasool/Mycode/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikjasrasool/Mycode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ikjasrasool/Mycode/tree/master/0327-count-of-range-sum) |
 ## Line Sweep
 |  |
 | ------- |
@@ -660,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ikjasrasool/Mycode/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikjasrasool/Mycode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ikjasrasool/Mycode/tree/master/0327-count-of-range-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -732,4 +738,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ikjasrasool/Mycode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ikjasrasool/Mycode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
