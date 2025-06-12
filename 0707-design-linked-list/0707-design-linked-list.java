@@ -9,10 +9,12 @@ class MyLinkedList {
     }
 
     Node head;
+    Node tail;
     int l;
 
     public MyLinkedList() {
         head = null;
+        tail=null;
         l = 0;
     }
 
@@ -27,21 +29,22 @@ class MyLinkedList {
 
     public void addAtHead(int val) {
         Node nn = new Node(val);
-        nn.next = head;
-        head = nn;
+        if (head == null) {
+            head = tail = nn;
+        } else {
+            nn.next = head;
+            head = nn;
+        }
         l++;
     }
 
     public void addAtTail(int val) {
         Node nn = new Node(val);
         if (head == null) {
-            head = nn;
+            head =tail= nn;
         } else {
-            Node t = head;
-            while (t.next != null) {
-                t = t.next;
-            }
-            t.next = nn;
+            tail.next=nn;
+            tail=nn;
         }
         l++;
     }
@@ -69,17 +72,23 @@ class MyLinkedList {
     }
 
     public void deleteAtIndex(int index) {
-        if (index < 0 || index >= l) return;
+    if (index < 0 || index >= l) return;
 
-        if (index == 0) {
-            head = head.next;
-        } else {
-            Node temp = head;
-            for (int i = 0; i < index - 1; i++) {
-                temp = temp.next;
-            }
-            temp.next = temp.next.next;
+    if (index == 0) {
+        head = head.next;
+        if (head == null) tail = null; 
+    } else {
+        Node temp = head;
+        for (int i = 0; i < index - 1; i++) {
+            temp = temp.next;
         }
-        l--;
+        temp.next = temp.next.next;
+
+        if (temp.next == null) {
+            tail = temp;
+        }
     }
+    l--;
+}
+
 }
