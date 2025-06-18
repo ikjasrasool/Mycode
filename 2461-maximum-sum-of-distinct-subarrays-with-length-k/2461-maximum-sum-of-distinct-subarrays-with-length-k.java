@@ -1,26 +1,36 @@
+import java.util.*;
+
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
+        int l = 0;
+        int r = 0;
         Set<Integer> set = new HashSet<>();
-        long winsum = 0;
-        long max =0;
-        int l=0;
-        for(int r=0;r<nums.length;r++)
-        {
-            while(set.contains(nums[r]))
-            {
+        long max = 0;
+        long wn = 0;
+
+        while (r < nums.length) {
+            // Remove from left until nums[r] is not a duplicate
+            while (set.contains(nums[r])) {
                 set.remove(nums[l]);
-                winsum-=nums[l];
+                wn -= nums[l];
                 l++;
             }
+
             set.add(nums[r]);
-            winsum+=nums[r];
+            wn += nums[r];
+
             if (r - l + 1 == k) {
-                max = Math.max(max, winsum);
+                max = Math.max(max, wn);
+
+                // Slide the window by removing the leftmost element
                 set.remove(nums[l]);
-                winsum -= nums[l];
+                wn -= nums[l];
                 l++;
             }
+
+            r++;
         }
+
         return max;
     }
 }
