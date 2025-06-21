@@ -16,7 +16,7 @@ class MinStack {
     }
 
     public void pop() {
-        if (t == -1) return; // prevent pop on empty stack
+        if (t == -1) return; 
         if (s[t] == m[mt]) {
             mt--;
         }
@@ -24,12 +24,12 @@ class MinStack {
     }
 
     public int top() {
-        if (t == -1) throw new RuntimeException("Stack is empty");
+        if (t == -1) return 0;
         return s[t];
     }
 
     public int getMin() {
-        if (mt == -1) throw new RuntimeException("Min stack is empty");
+        if (mt == -1) return 0;
         return m[mt];
     }
 }
