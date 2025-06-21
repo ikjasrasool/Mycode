@@ -1,7 +1,7 @@
 class MinStack {
     int t;
     int mt = -1;
-    int[] s = new int[10000]; // increased size for safety
+    int[] s = new int[10000];
     int[] m = new int[10000];
 
     public MinStack() {
@@ -10,7 +10,7 @@ class MinStack {
 
     public void push(int val) {
         s[++t] = val;
-        if (mt == -1 || m[mt] >= val) {
+        if (mt == -1 || m[mt] >val) {
             m[++mt] = val;
         }
     }
