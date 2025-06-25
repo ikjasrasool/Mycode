@@ -1,31 +1,24 @@
 class Solution {
-    void dfs( List<List<Integer>> result,int start,int[] nums)
+    void per(int[] nums,List<List<Integer>> res,List<Integer> cur)
     {
-        if(start==nums.length)
+        if(cur.size()==nums.length)
         {
-            List<Integer>t=new ArrayList<>();
-            for(int x:nums)
-            {
-                t.add(x);
-            }
-            result.add(t);
+            res.add(new ArrayList<>(cur));
             return;
         }
-        for (int i = start; i < nums.length; i++) {
-            swap(nums, start, i);
-            dfs( result, start + 1,nums);
-            swap(nums, start, i); // backtrack
+        for(int i=0;i<nums.length;i++)
+        {
+            if(cur.contains(nums[i])) continue;
+            cur.add(nums[i]);
+            per(nums,res,cur);
+            cur.remove(cur.size()-1);
         }
-
-    }
-    void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
+        
     }
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> res=new ArrayList<>();
-        dfs(res,0,nums);
+        List<Integer> cur=new ArrayList<>();
+        per(nums,res,cur);
         return res;
     }
 }
