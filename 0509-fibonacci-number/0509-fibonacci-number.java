@@ -1,13 +1,17 @@
 class Solution {
+    int[] db=new int[31];
+    {
+        Arrays.fill(db,-1);
+    }
     public int fib(int n) {
-       int[] db=new int[n+1];
-       db[0]=0;
-       db[1]=1;
-       for(int i=2;i<=n;i++)
-       {
-        db[i]=db[i-1]+db[i-2];
-       }
-       return db[n];
-       
+        if(n==1 || n==0)
+        {
+            return n;
+        }
+        if(db[n]!=-1)
+        {
+            return db[n];
+        }
+        return db[n]=fib(n-1)+fib(n-2);
     }
 }
