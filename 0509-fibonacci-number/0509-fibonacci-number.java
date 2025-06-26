@@ -9,7 +9,10 @@ class Solution {
         {
             return n;
         }
-        
+        if(db[n]!=-1)
+        {
+            return db[n];
+        }
         return db[n]=fib(n-1)+fib(n-2);
     }
 }
