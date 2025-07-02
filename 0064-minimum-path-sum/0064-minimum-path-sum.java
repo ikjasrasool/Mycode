@@ -1,25 +1,29 @@
 class Solution {
-     static int[][] memo;
     public int minPathSum(int[][] grid) {
-        int m = grid.length-1;
-        int n = grid[0].length-1;
-        
-        memo = new int[m+1][n+1];
-        
-        return find(grid, m, n, memo);
+        int n=grid.length;
+        int m=grid[0].length;
+        int[][] db=new int[n][m];
+        for(int i=0;i<n;i++)
+        {
+            Arrays.fill(db[i],-1);
+        }
+        return dfs(db,grid,0,0);
     }
-    int find(int grid[][], int m, int n, int[][] memo)
+    int dfs(int[][] db,int[][] mat,int n,int m)
     {
-        if(m==0 && n==0)
-            return grid[0][0];
-        
-        else if(m<0 || n<0)
+        int rows = mat.length;
+        int cols = mat[0].length;
+        // Out of bounds
+        if (n >= rows || m >= cols) {
             return Integer.MAX_VALUE;
-        
-        else if(memo[m][n]!=0)
-            return memo[m][n];
-        else
-            return memo[m][n] =  grid[m][n] + Math.min(find(grid, m-1, n, memo),find(grid, m, n-1, memo)); 
-
+        }
+        if (n == rows - 1 && m == cols - 1) {
+            return mat[n][m];
+        }
+        if(db[n][m]!=-1)
+        {
+            return db[n][m];
+        }
+        return db[n][m]=mat[n][m]+Math.min(dfs(db,mat,n+1,m),dfs(db,mat,n,m+1));
     }
 }
