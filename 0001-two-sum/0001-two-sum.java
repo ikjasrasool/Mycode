@@ -16,7 +16,7 @@ class Solution {
         {
             arr[i]=new Pair(i,nums[i]);
         }
-        Arrays.sort(arr,(a,b)->Integer.compare(a.val,b.val));
+        Arrays.sort(arr,(a,b)->a.val-b.val);
          int l=0;
         int r=n-1;
         while(l<=r)
