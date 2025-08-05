@@ -1,11 +1,11 @@
 class Solution {
-    int[] db=new int[32];
+    int[] db=new int[100];
     Solution()
     {
-       Arrays.fill(db,-1);
+        Arrays.fill(db,-1);
     }
     public int fib(int n) {
-        if(n==0 || n==1)
+        if(n<=1)
         {
             return n;
         }
