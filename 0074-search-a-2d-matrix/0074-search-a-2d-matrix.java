@@ -1,21 +1,24 @@
 class Solution {
-    boolean fun(int[] nums, int target) {
-        int left = 0, right = nums.length - 1;
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] == target)
-                return true;
-            else if (nums[mid] < target)
-                left = mid + 1;
-            else
-                right = mid - 1;
-        }
-        return false;
-    }
     public boolean searchMatrix(int[][] matrix, int target) {
-        for (int i = 0; i < matrix.length; i++) {
-            if (fun(matrix[i], target)) {
+        int n=matrix.length;
+        int m=matrix[0].length;
+        int l=0,h=n*m-1;
+        while(l<=h)
+        {
+            int mid = (l + h) / 2;
+            int r=mid/m;
+            int c=mid%m;
+            if(matrix[r][c]==target)
+            {
                 return true;
+            }
+            else if(matrix[r][c]<target)
+            {
+                l=mid+1;
+            }
+            else
+            {
+                h=mid-1;
             }
         }
         return false;
