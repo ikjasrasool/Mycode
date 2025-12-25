@@ -1,33 +1,27 @@
 class Solution {
-    void backtrack(List<Integer>current,List<List<Integer>> result,int start,int candidate[],int target)
-    {
-        if(target<0)
-        {
-            return;
-        }
-        if(target==0)
-        {
-            result.add(new ArrayList<>(current));
-            return;
-        }
-        for(int i=start;i<candidate.length;i++)
-        {
-            if (i > start && candidate[i] == candidate[i-1]) {
-                continue;
-            }
-            if (candidate[i] > target) {
-                break;
-            }
-            current.add(candidate[i]);
-            backtrack(current,result,i+1,candidate,target-candidate[i]);
-            current.remove(current.size()-1);
-        }
+    public List<List<Integer>> combinationSum2(int[] can, int target) {
+        List<List<Integer>> res=new ArrayList<>();
+        Arrays.sort(can);
+        backtrack(res,can,target,0,new ArrayList<>());
+        return res;
     }
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        List<Integer> current=new ArrayList<>();
-        List<List<Integer>> result=new ArrayList<>();
-        Arrays.sort(candidates);
-        backtrack(current,result,0,candidates,target);
-        return result;
+     public void backtrack(List<List<Integer>> res,int[] can,int t,int s,List<Integer> te)
+    {
+        if(t<0)
+        {
+            return;
+        }
+        if(t==0)
+        {
+            res.add(new ArrayList<>(te));
+            return;
+        }
+        for(int i=s;i<can.length;i++)
+        {
+            if (i > s && can[i] == can[i - 1]) continue;
+            te.add(can[i]);
+            backtrack(res,can,t-can[i],i+1,te);
+            te.remove(te.size()-1);
+        }
     }
 }
