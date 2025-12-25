@@ -1,26 +1,26 @@
 class Solution {
-    void backtrack(int[] can,int tar,List<Integer> com,List<List<Integer>> cur,int start)
+    void backtrack(List<Integer>current,List<List<Integer>> result,int start,int candidate[],int target)
     {
-        if(tar==0)
-        {
-            cur.add(new ArrayList<>(com));
-            return;
-        }
-        if(tar<0)
+        if(target<0)
         {
             return;
         }
-        for(int i=start;i<can.length;i++)
+        if(target==0)
         {
-            com.add(can[i]);
-            backtrack(can,tar-can[i],com,cur,i);
-            com.remove(com.size()-1);
+            result.add(new ArrayList<>(current));
+            return;
+        }
+        for(int i=start;i<candidate.length;i++)
+        {
+            current.add(candidate[i]);
+            backtrack(current,result,i,candidate,target-candidate[i]);
+            current.remove(current.size()-1);
         }
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> cur=new ArrayList<>();
-        List<Integer> com=new ArrayList<>();
-        backtrack(candidates,target,com,cur,0);
-        return cur;
+        List<Integer> current=new ArrayList<>();
+        List<List<Integer>> result=new ArrayList<>();
+        backtrack(current,result,0,candidates,target);
+        return result;
     }
 }
