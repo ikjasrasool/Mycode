@@ -1,21 +1,14 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-
-        int l = 0;
-        int r = numbers.length - 1;
-
-        while(l < r){
-            int sum = numbers[l] + numbers[r];
-            if(sum == target){
-                return new int[]{l + 1, r + 1};
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for(int i=0;i<numbers.length;i++)
+        {
+            if(map.containsKey(numbers[i]))
+            {
+                return new int[]{map.get(numbers[i])+1,i+1};
             }
-            else if(sum < target){
-                l++;
-            }
-            else{
-                r--;
-            }
+            map.put(target-numbers[i],i);
         }
-        return new int[0];
+        return new int[]{};
     }
 }
