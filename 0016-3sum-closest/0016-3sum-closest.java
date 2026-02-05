@@ -1,6 +1,6 @@
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
-        int close_sum=nums[0]+nums[1]+nums[2];
+        int closet=Integer.MAX_VALUE;
         Arrays.sort(nums);
         for(int i=0;i<nums.length;i++)
         {
@@ -21,12 +21,12 @@ class Solution {
                 {
                     l++;
                 }
-                if(sum>close_sum)
-                {
-                    close_sum=sum;
+                if (Math.abs(sum - target) < Math.abs(closet - target)) {
+                     closet = sum;
                 }
+
             }
         }
-        return close_sum;
+        return closet;
     }
 }
